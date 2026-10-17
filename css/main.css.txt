@@ -1,0 +1,4 @@
+int main
+{
+   font-size 200px;
+}
